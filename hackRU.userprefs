@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BoxMovement.cs">
+    <Files>
+      <File FileName="Assets\BoxMovement.cs" Line="77" Column="4" />
+      <File FileName="Assets\KinectView\Scripts\ExtraMath.cs" Line="13" Column="3" />
+      <File FileName="Assets\SpinTheWing.cs" Line="6" Column="31" />
+      <File FileName="Assets\KinectView\Scripts\BodySourceView.cs" Line="11" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

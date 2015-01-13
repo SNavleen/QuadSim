@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: bde6fce921bb3a540bb073eb5281a384
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: Lamp.001
+    100006: //RootNode
+    100008: plant_pmat1.001
+    100010: plant_pmat1.001_MeshPart0
+    100012: plant_pmat1.001_MeshPart1
+    100014: plant_pmat10.001
+    100016: plant_pmat11.001
+    100018: plant_pmat2.001
+    100020: plant_pmat3.001
+    100022: plant_pmat4.001
+    100024: plant_pmat5.001
+    100026: plant_pmat6.001
+    100028: plant_pmat7.001
+    100030: plant_pmat8.001
+    100032: plant_pmat9.001
+    400000: Camera
+    400002: Lamp
+    400004: Lamp.001
+    400006: //RootNode
+    400008: plant_pmat1.001
+    400010: plant_pmat1.001_MeshPart0
+    400012: plant_pmat1.001_MeshPart1
+    400014: plant_pmat10.001
+    400016: plant_pmat11.001
+    400018: plant_pmat2.001
+    400020: plant_pmat3.001
+    400022: plant_pmat4.001
+    400024: plant_pmat5.001
+    400026: plant_pmat6.001
+    400028: plant_pmat7.001
+    400030: plant_pmat8.001
+    400032: plant_pmat9.001
+    2300000: plant_pmat1.001_MeshPart0
+    2300002: plant_pmat1.001_MeshPart1
+    2300004: plant_pmat10.001
+    2300006: plant_pmat11.001
+    2300008: plant_pmat2.001
+    2300010: plant_pmat3.001
+    2300012: plant_pmat4.001
+    2300014: plant_pmat5.001
+    2300016: plant_pmat6.001
+    2300018: plant_pmat7.001
+    2300020: plant_pmat8.001
+    2300022: plant_pmat9.001
+    3300000: plant_pmat1.001_MeshPart0
+    3300002: plant_pmat1.001_MeshPart1
+    3300004: plant_pmat10.001
+    3300006: plant_pmat11.001
+    3300008: plant_pmat2.001
+    3300010: plant_pmat3.001
+    3300012: plant_pmat4.001
+    3300014: plant_pmat5.001
+    3300016: plant_pmat6.001
+    3300018: plant_pmat7.001
+    3300020: plant_pmat8.001
+    3300022: plant_pmat9.001
+    4300000: plant_pmat6.001
+    4300002: plant_pmat11.001
+    4300004: plant_pmat10.001
+    4300006: plant_pmat1.001_MeshPart0
+    4300008: plant_pmat1.001_MeshPart1
+    4300010: plant_pmat3.001
+    4300012: plant_pmat9.001
+    4300014: plant_pmat2.001
+    4300016: plant_pmat8.001
+    4300018: plant_pmat5.001
+    4300020: plant_pmat4.001
+    4300022: plant_pmat7.001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
